@@ -1,0 +1,1 @@
+print([n for n in range(20, 241) if n % 2 == 0])
